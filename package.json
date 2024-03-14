@@ -1,0 +1,29 @@
+{
+  "name": "ocp",
+  "version": "1.0.0",
+  "description": "example for open-clised principle",
+  "main": "book-formatting.test.js",
+  "scripts": {
+    "test-1": "mocha after/1/",
+    "test-2": "mocha after/2/book-formatting.service.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Technology-Agnostic/OCP.git"
+  },
+  "keywords": [
+    "solid",
+    "open",
+    "closed",
+    "principle"
+  ],
+  "author": "technology agnostic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Technology-Agnostic/OCP/issues"
+  },
+  "homepage": "https://github.com/Technology-Agnostic/OCP#readme",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
