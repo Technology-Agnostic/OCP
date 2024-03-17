@@ -2,7 +2,7 @@
   "name": "ocp",
   "version": "1.0.0",
   "description": "example for open-clised principle",
-  "main": "book-formatting.test.js",
+  "main": "book-formatting.service.test.js",
   "scripts": {
     "test-1": "mocha after/1/",
     "test-2": "mocha after/2/book-formatting.service.test.js"
