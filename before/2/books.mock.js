@@ -20,7 +20,8 @@ const BOOKS = [
         title: 'Crime and Punishment',
         issueDate: '1866',
         description: 'Crime and Punishment follows the mental anguish and moral dilemmas of Rodion Raskolnikov, an impoverished...',
-        price: 23.50
+        price: 23.50,
+        type: 'text'
     },
 ];
 

@@ -5,6 +5,8 @@ class Book {
         this.issueDate = issueDate;
         this.description = description;
         this.price = price;
+
+        this.type = 'text';
     }
 
     get id() {
