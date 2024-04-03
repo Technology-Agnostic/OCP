@@ -1,7 +1,7 @@
 const Book = require('./book');
 
 class BookFactory {
-    createBook({ author, title, issueDate, description, price, type }) {
+    createBook({ author, title, issueDate, description, price }) {
         return new Book(author, title, issueDate, description, price);
     }
 }
